@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyTorch checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Datasets and generated outputs
+saved_data/
+save_data/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
