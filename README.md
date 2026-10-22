@@ -134,6 +134,7 @@ DDPM Separator 訓練
 
 
 ## English
+## Introduction
 
 This project implements a latent diffusion-based signal separation framework using a pretrained VAE-GAN and a conditional Denoising Diffusion Probabilistic Model (DDPM).
 
