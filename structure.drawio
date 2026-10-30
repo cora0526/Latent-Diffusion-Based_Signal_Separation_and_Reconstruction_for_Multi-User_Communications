@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="rYKDzqnpmgMPw_j2Lu4b">
+    <mxGraphModel dx="715" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SrClwcFonDyxA8dhTPVV-1" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;legacyAnchorPoints=0;direction=south;" value="VAE encoder A" vertex="1">
+          <mxGeometry height="100" width="60" x="150" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SrClwcFonDyxA8dhTPVV-2" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;legacyAnchorPoints=0;direction=south;" value="VAE encoder B" vertex="1">
+          <mxGeometry height="100" width="60" x="150" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SrClwcFonDyxA8dhTPVV-3" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;legacyAnchorPoints=0;direction=north;" value="GAN decoder" vertex="1">
+          <mxGeometry height="100" width="60" x="560" y="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
